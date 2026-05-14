@@ -1,0 +1,492 @@
+{
+  "metadata": {
+    "company_name": "",
+    "assessment_date": "2026-05-14",
+    "assessor": "",
+    "version": "1.0",
+    "last_saved": "2026-05-14"
+  },
+  "articles": {
+    "5": {
+      "controls": {
+        "5_1": false,
+        "5_2": false,
+        "5_3": false,
+        "5_4": false,
+        "5_5": false,
+        "5_6": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "6": {
+      "controls": {
+        "6_1": false,
+        "6_2": false,
+        "6_3": false,
+        "6_4": false,
+        "6_5": false,
+        "6_6": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "7": {
+      "controls": {
+        "7_1": false,
+        "7_2": false,
+        "7_3": false,
+        "7_4": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "8": {
+      "controls": {
+        "8_1": false,
+        "8_2": false,
+        "8_3": false,
+        "8_4": false,
+        "8_5": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "9": {
+      "controls": {
+        "9_1": false,
+        "9_2": false,
+        "9_3": false,
+        "9_4": false,
+        "9_5": false,
+        "9_6": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "10": {
+      "controls": {
+        "10_1": false,
+        "10_2": false,
+        "10_3": false,
+        "10_4": false,
+        "10_5": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "11": {
+      "controls": {
+        "11_1": false,
+        "11_2": false,
+        "11_3": false,
+        "11_4": false,
+        "11_5": false,
+        "11_6": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "12": {
+      "controls": {
+        "12_1": false,
+        "12_2": false,
+        "12_3": false,
+        "12_4": false,
+        "12_5": false,
+        "12_6": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "13": {
+      "controls": {
+        "13_1": false,
+        "13_2": false,
+        "13_3": false,
+        "13_4": false,
+        "13_5": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "14": {
+      "controls": {
+        "14_1": false,
+        "14_2": false,
+        "14_3": false,
+        "14_4": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "15": {
+      "controls": {
+        "15_1": false,
+        "15_2": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "16": {
+      "controls": {
+        "16_1": false,
+        "16_2": false,
+        "16_3": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "17": {
+      "controls": {
+        "17_1": false,
+        "17_2": false,
+        "17_3": false,
+        "17_4": false,
+        "17_5": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "18": {
+      "controls": {
+        "18_1": false,
+        "18_2": false,
+        "18_3": false,
+        "18_4": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "19": {
+      "controls": {
+        "19_1": false,
+        "19_2": false,
+        "19_3": false,
+        "19_4": false,
+        "19_5": false,
+        "19_6": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "20": {
+      "controls": {
+        "20_1": false,
+        "20_2": false,
+        "20_3": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "21": {
+      "controls": {
+        "21_1": false,
+        "21_2": false,
+        "21_3": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "22": {
+      "controls": {
+        "22_1": false,
+        "22_2": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "23": {
+      "controls": {
+        "23_1": false,
+        "23_2": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "24": {
+      "controls": {
+        "24_1": false,
+        "24_2": false,
+        "24_3": false,
+        "24_4": false,
+        "24_5": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "25": {
+      "controls": {
+        "25_1": false,
+        "25_2": false,
+        "25_3": false,
+        "25_4": false,
+        "25_5": false,
+        "25_6": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "26": {
+      "controls": {
+        "26_1": false,
+        "26_2": false,
+        "26_3": false,
+        "26_4": false,
+        "26_5": false,
+        "26_6": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "27": {
+      "controls": {
+        "27_1": false,
+        "27_2": false,
+        "27_3": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "28": {
+      "controls": {
+        "28_1": false,
+        "28_2": false,
+        "28_3": false,
+        "28_4": false,
+        "28_5": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "29": {
+      "controls": {
+        "29_1": false,
+        "29_2": false,
+        "29_3": false,
+        "29_4": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "30": {
+      "controls": {
+        "30_1": false,
+        "30_2": false,
+        "30_3": false,
+        "30_4": false,
+        "30_5": false,
+        "30_6": false,
+        "30_7": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "31": {
+      "controls": {
+        "31_1": false,
+        "31_2": false,
+        "31_3": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "32": {
+      "controls": {
+        "32_1": false,
+        "32_2": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "33": {
+      "controls": {
+        "33_1": false,
+        "33_2": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "34": {
+      "controls": {
+        "34_1": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "35": {
+      "controls": {
+        "35_1": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "36": {
+      "controls": {
+        "36_1": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "37": {
+      "controls": {
+        "37_1": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "38": {
+      "controls": {
+        "38_1": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "39": {
+      "controls": {
+        "39_1": false,
+        "39_2": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "40": {
+      "controls": {
+        "40_1": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "41": {
+      "controls": {
+        "41_1": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "42": {
+      "controls": {
+        "42_1": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "43": {
+      "controls": {
+        "43_1": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "44": {
+      "controls": {
+        "44_1": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "45": {
+      "controls": {
+        "45_1": false,
+        "45_2": false,
+        "45_3": false,
+        "45_4": false,
+        "45_5": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    },
+    "46": {
+      "controls": {
+        "46_1": false,
+        "46_2": false
+      },
+      "owner": "",
+      "due_date": "",
+      "notes": "",
+      "last_updated": ""
+    }
+  }
+}
